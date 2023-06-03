@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="style.css">
+    <meta http-equiv="refresh" content="2">
+</head>
+
+<body>
+    <header>
+        <h1>What time is it?</h1>
+        <nav>
+
+            <ul>
+                <li><a href="accueil.html">Accueil</a></li>
+                <li><a href="apropos.html">À propos</a></li>
+                <li><a href="contact.html">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+
+
+    <section class="index">
+        <article>
+            <h2>Rolex</h2>
+            <img src="https://magazine.chrono24.com/cdn-cgi/image/f=auto,metadata=none,q=65,w=980/2020/11/CAM-1461-Magazin-2-1-rolex-final.jpg" alt="Rolex Watch">
+            <p>Le règne de Rolex en tant que reine incontestée des marques d’horlogerie se poursuit – et ses montres sont toujours aussi prisées. Si les prix des modèles les plus populaires tels que la Submariner, la GMT-Master II et la Daytona sont en hausse constante sur Chrono24, des modèles plus discrets ont eux aussi rejoint la course. La Datejust, les Oyster Perpetual récemment sorties, l’Explorer, l’Explorer II et même l’excentrique Milgauss sont actuellement très recherchées. Leur prix vont-ils continuer leur ascension ou allons-nous assister à une accalmie dans les mois à venir ? Si tout est possible, rien ne semble pour le moment prédire un bouleversement de l’ordre royal. </p>
+        </article>
+        <article>
+            <h2>Omega</h2>
+            <img src="https://magazine.chrono24.com/cdn-cgi/image/f=auto,metadata=none,q=65,w=980/2019/12/Omega-Special-Edition.jpeg">
+            <p>Une autre marque incroyablement populaire est Omega. Originaire de Bienne, en Suisse, c’est à elle que l’on doit certaines des plus grandes icônes de l’industrie, parmi lesquelles la Speedmaster. Avec le lancement de la nouvelle Moonwatch, dotée non seulement d’un nouveau design mais également d’un nouveau mouvement, la marque ouvre un nouveau chapitre dans l’héritage de la collection. En parlant de Moonwatch, la dernière Speedmaster Snoopy est la plus recherchée des éditions spéciales de la Speedmaster. Omega a également lancé une nouvelle ligne de montres Seamaster 300, une montre de plongée rétro s’inspirant du riche héritage de la marque sans faire l’impasse sur les normes les plus élevées de l’horlogerie moderne. </p>
+        </article>
+        <article>
+            <h2>Breiling</h2>
+            <img src="https://magazine.chrono24.com/cdn-cgi/image/f=auto,metadata=none,q=65,w=980/2021/09/19715117-mro7zb40i9hhtudxaopcp157-ExtraLarge.jpg">
+            <p>Depuis que Georges Kern, ancien PDG d’IWC, a pris la tête de Breitling, la marque a affiché un regain d’énergie, pour le plus grand bonheur des passionnés de montres. Breitling est connue pour ses excellentes rééditions des modèles emblématiques de son histoire, par exemple l’AVI réf. 765 1953 Re-Edition et la Navitimer réf. 806 1959 Re-Edition. Ces deux références vous laissent sur votre faim ? Breitling a également présenté de nouvelles versions des iconiques Chronomat, Top Time et Superocean Heritage ’57. La popularité de ces modèles phares de la marque n’est absolument pas en baisse auprès des collectionneurs et fait de Breitling l’un des noms les plus connus et les plus recherchés du moment. </p>
+        </article>
+    </section>
+
+</body>
+
+</html>
